@@ -1,12 +1,11 @@
 # Table of Contents
 ___
 ### Reports
-<!-- - [Factors Influencing Homesale Prices in King County Area](./notebooks/reports/index.ipynb)
-- [Presentation](./reports/King_County_Home_Sales.pdf) -->
+<!-- - [Predictive Model and Visualizations](./notebooks/reports/index.ipynb)
+- [Presentation](./reports/SyriaTel_Churn_presentation.pdf) -->
 
 ### Exploratory Notebooks
-<!-- - [Data Cleanup and Exploration](./notebooks/exploratory/notebooks/EDA.ipynb)
-- [Influence of Waterfront and Porches on Homesale Price](./notebooks/exploratory/eda/andrew_PR_EDA.ipynb) -->
+<!-- - [Data Cleanup and Exploration](./notebooks/EDA.ipynb) -->
 
 # Introduction
 ___
