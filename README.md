@@ -17,7 +17,8 @@ ___
 
 ## Feature Correlations
 <img src = notebooks/images/Feature_corr.png width= 400px>
-There were several factors acting as strong predictors of customer churn. These have high correlations with customer churn and are expected to be used in the model.
+The data we used for this project was provided by SyriaTel and includes 3,333 SyriaTel customers from every state in the United States, and the District of Columbia. It contains 20 columns with information including account length, various telco plans,  interactions with customer service, and churn. 
+The graph above shows several factors as strong predictors of customer churn. These have high correlations with customer churn and we would expect to see some of them in our model.
 
 ## Feature Importances
 <img src = notebooks/images/Feature_importance.png width= 600px>
