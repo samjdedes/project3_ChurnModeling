@@ -21,7 +21,7 @@ There were several factors acting as strong predictors of customer churn. These 
 
 ## Feature Importances
 <img src = notebooks/images/Feature_importance.png width= 600px>
-Using what is known as an "Extra Trees" model, we cerated predictions for customer churn. As expected, 2 of our model's top 5 predictors are related to the high correlations seen between our predictors and customer churn.
+Using what is known as an "Extra Trees" model, we cerated predictions for customer churn. As expected, 2 of our model's top 5 predictors are related to the high correlations seen between our predictors and customer churn. Our goal was to construct the model with the best performance regarding the prediction of customer churn while minimizing false negatives (maximizing recall). Upon finding our “best model,” we tested it against a subset of the provided data (referred to test or validation data) to verify it’s performance on “new”, unseen data. From there, we identified the features that our model found important in making predictions, which can be seen in the graph above.
 
 ## Confusion Matrix
 <img src = notebooks/images/final_confusion_matrix.png width= 400px>
