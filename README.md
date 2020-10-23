@@ -9,7 +9,8 @@ ___
 
 # Introduction
 ___
-The following is our findings of our analysis of over 3000 customers from SyriaTel. Through data cleaning and analysis various machine learning models were build to predict customer churn. Due to the business nature of this analysis, our process aims to create a model which minimizes false negatives. In other words, beyond genreal acuracy, want to avoid predicting a customer will stay when they will end up leaving. 
+This data science project uses machine learning models to help SyriaTel, a telco business, address customer churn. It attempts to address the business question “Are there any predictable patterns related to customer churn”.  It uses data science techniques including data cleaning, data exploration, running and comparing various predictive Machine Learning models, choosing the best model, and analyzing it to address the business problem.  Due to the business nature of this analysis, our process aims to create a model which minimizes false negatives. In other words, beyond general accuracy, we want to avoid predicting a customer will stay when they will end up leaving.
+
 
 # Influences
 ___
