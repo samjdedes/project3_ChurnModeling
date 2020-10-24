@@ -2,10 +2,10 @@
 ___
 ### Reports
 - [Predictive Model and Visualizations](reports/index.ipynb)
-- [Presentation](reports/SyriaTel Customer Churn Data    Visualizations.pdf)
+- [Presentation](reports/SyriaTel_Customer_Churn_Data_Visualizations.pdf)
 
 ### Exploratory Notebooks
-[Data Cleanup and Exploration](./notebooks/EDA.ipynb)
+- [Data Cleanup and Exploration](./notebooks/EDA.ipynb)
 
 # Introduction
 ___
