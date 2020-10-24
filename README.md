@@ -25,7 +25,7 @@ The graph above shows several factors as strong predictors of customer churn. Th
 Using what is known as an "Extra Trees" model, we cerated predictions for customer churn. As expected, 2 of our model's top 5 predictors are related to the high correlations seen between our predictors and customer churn. Our goal was to construct the model with the best performance regarding the prediction of customer churn while minimizing false negatives (maximizing recall). Upon finding our “best model,” we tested it against a subset of the provided data (referred to test or validation data) to verify it’s performance on “new”, unseen data. From there, we identified the features that our model found important in making predictions, which can be seen in the graph above.
 
 ## Confusion Matrix
-<img src = notebooks/images/final_confusion_matrix.png width= 400px>
+<img src = report/images/final_confusion_matrix.png width= 400px>
 This is a visualization of our model's predictions. We see along the main diagonal our model's correct predictions. In the top left the number of customers our model correctly predicted would stay. In the bottom right is the number correctly predicted to churn.
 The models errors can be seen along the off diagonal. The top right is the number of customers predicted to churn when they stayed with SyriaTel, and the bottom left predicted to stay when they churned.
 It is the bottom left number (known as a type II error) that this model seeks to minimize. Oour aim is to efficiently identify customers at risk of leaving, and flag for intervention if possible.
